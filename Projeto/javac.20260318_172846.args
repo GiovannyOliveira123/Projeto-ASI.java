@@ -1,0 +1,18 @@
+-d
+/home/giovanny/Downloads/Etapa3/build/classes
+-classpath
+"/home/giovanny/Downloads/Etapa3/build/classes:/home/giovanny/Downloads/Etapa3/dist/lib/jbcrypt-0.4.jar:/home/giovanny/Área de trabalho/Giovanny/NetBeansProjects/Etapa3/dist/lib/jbcrypt-0.4.jar:/home/giovanny/Área de trabalho/Giovanny/Downloads/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0.jar"
+-sourcepath
+/home/giovanny/Downloads/Etapa3/build/empty
+-target
+17
+-encoding
+UTF-8
+-g
+-processorpath
+"/home/giovanny/Downloads/jbcrypt-0.4.jar:/home/giovanny/Downloads/Etapa3/dist/lib/jbcrypt-0.4.jar:/home/giovanny/Área de trabalho/Giovanny/NetBeansProjects/desafioConexaoBD/dist/lib/mysql-connector-j-9.5.0.jar:/home/giovanny/Área de trabalho/Giovanny/NetBeansProjects/Etapa3/dist/lib/jbcrypt-0.4.jar:/home/giovanny/Área de trabalho/Giovanny/Downloads/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0.jar:/home/giovanny/Downloads/Etapa3/build/empty"
+-s
+/home/giovanny/Downloads/Etapa3/build/generated-sources/ap-source-output
+-source
+17
+/home/giovanny/Downloads/Etapa3/src/classesdao/SenhasDAO.java
