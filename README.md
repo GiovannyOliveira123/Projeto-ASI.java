@@ -7,6 +7,8 @@
 - Java
 - Swing
 - MySQL
+- Git
+- GitHub
 
 ## Tecnologias complementares
 - Bcrypt
